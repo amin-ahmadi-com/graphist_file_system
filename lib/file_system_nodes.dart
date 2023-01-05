@@ -24,6 +24,12 @@ abstract class FileSystemNode extends Node {
           labelProperty: "name",
           uniqueProperty: "path",
           urlProperty: "path",
+          icon: NodeIcon(
+            fontFamily: "MaterialIcons",
+            codePoint: type == FileSystemNodeType.folder
+                ? 0xe2a3 // https://api.flutter.dev/flutter/material/Icons/folder-constant.html
+                : 0xe0a2, // https://api.flutter.dev/flutter/material/Icons/article-constant.html
+          ),
         );
 }
 
