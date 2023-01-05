@@ -1,3 +1,7 @@
+## 0.2.2
+
+* Example added
+
 ## 0.2.1
 
 * Icon support for folders and files

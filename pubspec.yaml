@@ -1,6 +1,6 @@
 name: graphist_file_system
 description: Graphist implementation for file system.
-version: 0.2.1
+version: 0.2.2
 homepage: https://github.com/amin-ahmadi-com/graphist_file_system
 
 environment:
