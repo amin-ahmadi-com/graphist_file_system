@@ -1,6 +1,6 @@
 name: graphist_file_system
 description: Graphist implementation for file system.
-version: 0.1.0
+version: 0.2.0
 homepage: https://github.com/amin-ahmadi-com/graphist_file_system
 
 environment:
@@ -12,7 +12,7 @@ dependencies:
     sdk: flutter
   path: ^1.8.2
   tuple: ^2.0.0
-  graphist: ^0.2.0
+  graphist: ^0.2.3
 
 dev_dependencies:
   flutter_test:

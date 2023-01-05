@@ -19,7 +19,7 @@ abstract class FileSystemNode extends Node {
           type: type.toString(),
           properties: {
             "path": path,
-            "name": basenameWithoutExtension(path),
+            "name": basename(path).isNotEmpty ? basename(path) : path,
           },
           labelProperty: "name",
           uniqueProperty: "path",
