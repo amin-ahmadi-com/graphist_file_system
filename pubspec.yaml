@@ -1,23 +1,23 @@
 name: graphist_file_system
 description: Graphist implementation for file system.
-version: 0.2.2
+version: 0.3.0
 homepage: https://github.com/amin-ahmadi-com/graphist_file_system
 
 environment:
-  sdk: '>=2.18.6 <3.0.0'
-  flutter: ">=1.17.0"
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: ">=3.0.0"
 
 dependencies:
   flutter:
     sdk: flutter
-  path: ^1.8.2
+  path: ^1.9.0
   tuple: ^2.0.0
-  graphist: ^0.2.4
+  graphist: ^0.3.0
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^2.0.0
+  flutter_lints: ^6.0.0
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
