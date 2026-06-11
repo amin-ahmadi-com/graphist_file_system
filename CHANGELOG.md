@@ -1,3 +1,7 @@
+## 0.4.0
+
+* Updated dependency graphist to ^0.5.0
+
 ## 0.3.0
 
 * Updated SDK constraint to `>=3.0.0 <4.0.0`

@@ -8,5 +8,5 @@ To use this package, add `graphist_file_system` to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  graphist_file_system: ^0.3.0
+  graphist_file_system: ^0.4.0
 ```
